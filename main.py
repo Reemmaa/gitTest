@@ -1,4 +1,11 @@
 print("This is the master")
 
-print("I am still in master")
-print("This will make conflict")
+print("Whta branch is this?")
+
+def math():
+    a = int(input())
+    b = int(input())
+
+    print (a + b)
+
+math()
