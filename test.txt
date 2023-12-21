@@ -4,3 +4,5 @@ add a new commit
 would it appear on github??
 
 what if I want to make changes directly in github?
+
+push what
